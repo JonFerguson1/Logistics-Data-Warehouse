@@ -1,5 +1,5 @@
 # Logistics_data_warehouse
-Data warehouse that receives data from CSV files based on scheduling from Airflow.
+Data warehouse that receives data from CSV files based on scheduling from Apache Airflow.
 - This project was created in a Linux environment using Windows SubSystem for Linux. 
 - MySQL and Airflow should be installed.The SQL files are meant to setup the database. 
 - Once the database is setup then there is no more need for the SQL files. 
