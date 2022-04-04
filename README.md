@@ -13,3 +13,6 @@ Primary Reference,Owner,Customer Charge,Customer Mode,Carrier Name,Carrier Charg
 - For your database.py file make sure to input your database connection info.
 
 ![Logistics_Data_Warehouse](https://user-images.githubusercontent.com/73361532/161411750-c6f52031-ddd5-4f45-bf1d-50dd7dfd00a4.JPG)
+
+
+![image](https://user-images.githubusercontent.com/73361532/161488877-30c3c9b0-b68b-4526-b54a-d8fa8ed58e74.png)
